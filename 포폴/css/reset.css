@@ -1,0 +1,8 @@
+@charset "utf-8";
+*{margin: 0; padding: 0; box-sizing: border-box; font-weight: 400; letter-spacing: .025em;}
+html{font-size: 62.5%; background: #000;}
+ul{list-style: none;}
+a{text-decoration: none;  color: #222232;}
+
+/*스킵*/
+.hidden{position: absolute; overflow: hidden; width: 1px; height: 1px; padding: 0; margin: -1px; border: 0; clip: rect(0,0,0,0);}
